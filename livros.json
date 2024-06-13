@@ -1,14 +1,1 @@
-[
-    {
-        "id": "1",
-        "nome": "livro um"
-    },
-    {
-        "id": "2",
-        "nome": "livro dois"
-    },
-    {
-        "id": "3",
-        "nome": "Livro três"
-    }
-]
+[{"id":"1","nome":"livro um"},{"id":"2","nome":"livro dois"},{"id":"3","nome":"livro tres"}]
